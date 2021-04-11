@@ -1,14 +1,5 @@
 <?php
 
-/*****************************************************
-* #### Chat Realtime (BETA) ####
-* Coded by Ican Bachors 2016.
-* https://github.com/bachors/Chat-Realtime
-* Updates will be posted to this site.
-* Aplikasi ini akan selalu bersetatus (BETA) 
-* Karena akan terus di update & dikembangkan.
-* Maka dari itu jangan lupa di fork & like ya sob :).
-*****************************************************/
 
 class Chat_realtime {
 	
